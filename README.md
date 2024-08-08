@@ -5,13 +5,11 @@
 ### **Duration:** JULY to AUGUST 2024
 ### **Mentor:** Neela Santhosh kumar
 
-###Building a Chat Application with Firebase
-##Project Overview
+### **Building a Chat Application with Firebase**
+### **Project Overview**
 This project demonstrates how to build a real-time chat application using Firebase. The application leverages Firebase services such as Authentication, Firestore, and Hosting to provide user sign-in/sign-up functionality, real-time messaging, and web hosting.
 
-Project Structure
-arduino
-Copy code
+### Project Structure
 chat-app/
 ├── .firebaserc
 ├── firebase.json
